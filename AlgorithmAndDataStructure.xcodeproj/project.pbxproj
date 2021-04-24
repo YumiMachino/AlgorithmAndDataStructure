@@ -8,6 +8,59 @@
 
 /* Begin PBXBuildFile section */
 		AE069267262E0839003058DB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE069266262E0839003058DB /* main.swift */; };
+		AE06926F262E095A003058DB /* BellmanFord.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE06926E262E095A003058DB /* BellmanFord.swift */; };
+		AE069272262E0962003058DB /* Bridges.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE069271262E0962003058DB /* Bridges.swift */; };
+		AE069276262E0991003058DB /* CourseSchedule.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE069274262E0990003058DB /* CourseSchedule.swift */; };
+		AE069277262E0991003058DB /* CourseSchedule2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE069275262E0991003058DB /* CourseSchedule2.swift */; };
+		AE06927F262E099B003058DB /* CyclicPermutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE06927A262E099B003058DB /* CyclicPermutation.swift */; };
+		AE069280262E099B003058DB /* DijkstraPQ.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE06927B262E099B003058DB /* DijkstraPQ.swift */; };
+		AE069281262E099B003058DB /* GasStation.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE06927C262E099B003058DB /* GasStation.swift */; };
+		AE069282262E099B003058DB /* DijkstraArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE06927D262E099B003058DB /* DijkstraArray.swift */; };
+		AE069287262E09A4003058DB /* PartitionLabels.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE069284262E09A4003058DB /* PartitionLabels.swift */; };
+		AE069288262E09A4003058DB /* LCA(linear).swift in Sources */ = {isa = PBXBuildFile; fileRef = AE069285262E09A4003058DB /* LCA(linear).swift */; };
+		AE069289262E09A4003058DB /* MSTImplementation.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE069286262E09A4003058DB /* MSTImplementation.swift */; };
+		AE069299262E09B4003058DB /* TaskScheduler.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE06928B262E09B1003058DB /* TaskScheduler.swift */; };
+		AE06929A262E09B4003058DB /* TwoCityScheduling.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE06928C262E09B2003058DB /* TwoCityScheduling.swift */; };
+		AE06929C262E09B4003058DB /* sushi.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE06928E262E09B2003058DB /* sushi.swift */; };
+		AE06929D262E09B4003058DB /* RepeatingSequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE06928F262E09B2003058DB /* RepeatingSequence.swift */; };
+		AE06929E262E09B4003058DB /* TreeAssignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE069290262E09B2003058DB /* TreeAssignment.swift */; };
+		AE06929F262E09B4003058DB /* UF.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE069291262E09B2003058DB /* UF.swift */; };
+		AE0692A0262E09B4003058DB /* TomatoFarm.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE069292262E09B2003058DB /* TomatoFarm.swift */; };
+		AE0692A1262E09B4003058DB /* TimeMachine.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE069293262E09B2003058DB /* TimeMachine.swift */; };
+		AE0692A2262E09B4003058DB /* sample_submission.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE069294262E09B3003058DB /* sample_submission.swift */; };
+		AE0692A4262E09B4003058DB /* Town.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE069296262E09B3003058DB /* Town.swift */; };
+		AE0692A5262E09B4003058DB /* TopologicalSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE069297262E09B3003058DB /* TopologicalSort.swift */; };
+		AE0692A6262E09B4003058DB /* SushiIterative.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE069298262E09B3003058DB /* SushiIterative.swift */; };
+		AE0692AA262E0A1D003058DB /* ClimbStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0692A9262E0A1D003058DB /* ClimbStairs.swift */; };
+		AE0692AE262E0B13003058DB /* String+DPStringTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0692AD262E0B13003058DB /* String+DPStringTool.swift */; };
+		AE0692B7262E0B61003058DB /* ExhaustiveSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0692B2262E0B61003058DB /* ExhaustiveSearch.swift */; };
+		AE0692B8262E0B61003058DB /* Backtracking.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0692B4262E0B61003058DB /* Backtracking.swift */; };
+		AE0692B9262E0B61003058DB /* Recursion.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0692B5262E0B61003058DB /* Recursion.swift */; };
+		AE0692BA262E0B61003058DB /* Recursion_assignment1_evaluate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0692B6262E0B61003058DB /* Recursion_assignment1_evaluate.swift */; };
+		AE0692BF262E0B92003058DB /* Searching.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0692BD262E0B92003058DB /* Searching.swift */; };
+		AE0692C0262E0B92003058DB /* Sorting.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0692BE262E0B92003058DB /* Sorting.swift */; };
+		AE0692C6262E0CF6003058DB /* Bag.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0692C3262E0CF6003058DB /* Bag.swift */; };
+		AE0692C7262E0CF6003058DB /* Queue.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0692C4262E0CF6003058DB /* Queue.swift */; };
+		AE0692C8262E0CF6003058DB /* Stack.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0692C5262E0CF6003058DB /* Stack.swift */; };
+		AE0692CC262E0D52003058DB /* TreeTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0692CB262E0D52003058DB /* TreeTraversal.swift */; };
+		AE0692D6262E0DD8003058DB /* AdjacencyList.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0692D0262E0DD8003058DB /* AdjacencyList.swift */; };
+		AE0692D7262E0DD8003058DB /* BFS.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0692D1262E0DD8003058DB /* BFS.swift */; };
+		AE0692D8262E0DD8003058DB /* AdjacencyMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0692D2262E0DD8003058DB /* AdjacencyMatrix.swift */; };
+		AE0692D9262E0DD8003058DB /* bipartite.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0692D3262E0DD8003058DB /* bipartite.swift */; };
+		AE0692DA262E0DD8003058DB /* ConnectedComponents.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0692D4262E0DD8003058DB /* ConnectedComponents.swift */; };
+		AE0692DB262E0DD8003058DB /* DFS.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0692D5262E0DD8003058DB /* DFS.swift */; };
+		AE06931E262E1022003058DB /* IndexPriorityQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE06931D262E1022003058DB /* IndexPriorityQueue.swift */; };
+		AE069329262E445A003058DB /* makeOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE069328262E445A003058DB /* makeOne.swift */; };
+		AE06932C262E448F003058DB /* MCF.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE06932B262E448F003058DB /* MCF.swift */; };
+		AE06932F262E4C98003058DB /* TwoByTiles.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE06932E262E4C98003058DB /* TwoByTiles.swift */; };
+		AE069332262E4CF3003058DB /* oneTwoThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE069331262E4CF3003058DB /* oneTwoThree.swift */; };
+		AE069335262E4D17003058DB /* prettyNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE069334262E4D17003058DB /* prettyNumber.swift */; };
+		AE069338262E4D3D003058DB /* nonDecreasingOrderDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE069337262E4D3D003058DB /* nonDecreasingOrderDigits.swift */; };
+		AE706EA4262F9EDE00D053D8 /* LongestIncreasingSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE706EA3262F9EDE00D053D8 /* LongestIncreasingSubsequence.swift */; };
+		AE706EA7262FA21700D053D8 /* SumOfSquareNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE706EA6262FA21700D053D8 /* SumOfSquareNum.swift */; };
+		AE706EAA262FA2AA00D053D8 /* SumOfSquareNum2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE706EA9262FA2AA00D053D8 /* SumOfSquareNum2.swift */; };
+		AE706EAD262FA2C100D053D8 /* Pokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE706EAC262FA2C100D053D8 /* Pokemon.swift */; };
+		AE706EB0262FA2E500D053D8 /* maxSubArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE706EAF262FA2E500D053D8 /* maxSubArray.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +78,114 @@
 /* Begin PBXFileReference section */
 		AE069263262E0839003058DB /* AlgorithmAndDataStructure */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AlgorithmAndDataStructure; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE069266262E0839003058DB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		AE06926E262E095A003058DB /* BellmanFord.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BellmanFord.swift; sourceTree = "<group>"; };
+		AE069271262E0962003058DB /* Bridges.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bridges.swift; sourceTree = "<group>"; };
+		AE069274262E0990003058DB /* CourseSchedule.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CourseSchedule.swift; sourceTree = "<group>"; };
+		AE069275262E0991003058DB /* CourseSchedule2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CourseSchedule2.swift; sourceTree = "<group>"; };
+		AE06927A262E099B003058DB /* CyclicPermutation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CyclicPermutation.swift; sourceTree = "<group>"; };
+		AE06927B262E099B003058DB /* DijkstraPQ.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DijkstraPQ.swift; sourceTree = "<group>"; };
+		AE06927C262E099B003058DB /* GasStation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GasStation.swift; sourceTree = "<group>"; };
+		AE06927D262E099B003058DB /* DijkstraArray.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DijkstraArray.swift; sourceTree = "<group>"; };
+		AE069284262E09A4003058DB /* PartitionLabels.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PartitionLabels.swift; sourceTree = "<group>"; };
+		AE069285262E09A4003058DB /* LCA(linear).swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "LCA(linear).swift"; sourceTree = "<group>"; };
+		AE069286262E09A4003058DB /* MSTImplementation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MSTImplementation.swift; sourceTree = "<group>"; };
+		AE06928B262E09B1003058DB /* TaskScheduler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskScheduler.swift; sourceTree = "<group>"; };
+		AE06928C262E09B2003058DB /* TwoCityScheduling.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TwoCityScheduling.swift; sourceTree = "<group>"; };
+		AE06928E262E09B2003058DB /* sushi.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = sushi.swift; sourceTree = "<group>"; };
+		AE06928F262E09B2003058DB /* RepeatingSequence.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RepeatingSequence.swift; sourceTree = "<group>"; };
+		AE069290262E09B2003058DB /* TreeAssignment.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TreeAssignment.swift; sourceTree = "<group>"; };
+		AE069291262E09B2003058DB /* UF.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UF.swift; sourceTree = "<group>"; };
+		AE069292262E09B2003058DB /* TomatoFarm.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TomatoFarm.swift; sourceTree = "<group>"; };
+		AE069293262E09B2003058DB /* TimeMachine.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimeMachine.swift; sourceTree = "<group>"; };
+		AE069294262E09B3003058DB /* sample_submission.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = sample_submission.swift; sourceTree = "<group>"; };
+		AE069296262E09B3003058DB /* Town.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Town.swift; sourceTree = "<group>"; };
+		AE069297262E09B3003058DB /* TopologicalSort.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TopologicalSort.swift; sourceTree = "<group>"; };
+		AE069298262E09B3003058DB /* SushiIterative.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SushiIterative.swift; sourceTree = "<group>"; };
+		AE0692A9262E0A1D003058DB /* ClimbStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClimbStairs.swift; sourceTree = "<group>"; };
+		AE0692AD262E0B13003058DB /* String+DPStringTool.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+DPStringTool.swift"; sourceTree = "<group>"; };
+		AE0692B2262E0B61003058DB /* ExhaustiveSearch.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExhaustiveSearch.swift; sourceTree = "<group>"; };
+		AE0692B3262E0B61003058DB /* provinces.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = provinces.txt; sourceTree = "<group>"; };
+		AE0692B4262E0B61003058DB /* Backtracking.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Backtracking.swift; sourceTree = "<group>"; };
+		AE0692B5262E0B61003058DB /* Recursion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Recursion.swift; sourceTree = "<group>"; };
+		AE0692B6262E0B61003058DB /* Recursion_assignment1_evaluate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Recursion_assignment1_evaluate.swift; sourceTree = "<group>"; };
+		AE0692BD262E0B92003058DB /* Searching.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Searching.swift; sourceTree = "<group>"; };
+		AE0692BE262E0B92003058DB /* Sorting.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sorting.swift; sourceTree = "<group>"; };
+		AE0692C3262E0CF6003058DB /* Bag.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bag.swift; sourceTree = "<group>"; };
+		AE0692C4262E0CF6003058DB /* Queue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Queue.swift; sourceTree = "<group>"; };
+		AE0692C5262E0CF6003058DB /* Stack.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Stack.swift; sourceTree = "<group>"; };
+		AE0692CB262E0D52003058DB /* TreeTraversal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TreeTraversal.swift; sourceTree = "<group>"; };
+		AE0692D0262E0DD8003058DB /* AdjacencyList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdjacencyList.swift; sourceTree = "<group>"; };
+		AE0692D1262E0DD8003058DB /* BFS.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BFS.swift; sourceTree = "<group>"; };
+		AE0692D2262E0DD8003058DB /* AdjacencyMatrix.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdjacencyMatrix.swift; sourceTree = "<group>"; };
+		AE0692D3262E0DD8003058DB /* bipartite.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = bipartite.swift; sourceTree = "<group>"; };
+		AE0692D4262E0DD8003058DB /* ConnectedComponents.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConnectedComponents.swift; sourceTree = "<group>"; };
+		AE0692D5262E0DD8003058DB /* DFS.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DFS.swift; sourceTree = "<group>"; };
+		AE0692E2262E0EC7003058DB /* sushi.7.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.7.out; sourceTree = "<group>"; };
+		AE0692E3262E0EC7003058DB /* sushi.19.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.19.out; sourceTree = "<group>"; };
+		AE0692E4262E0EC7003058DB /* sushi.20.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.20.in; sourceTree = "<group>"; };
+		AE0692E5262E0EC7003058DB /* sushi.22.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.22.out; sourceTree = "<group>"; };
+		AE0692E6262E0EC7003058DB /* sushi.20.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.20.out; sourceTree = "<group>"; };
+		AE0692E7262E0EC7003058DB /* sushi.10.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.10.out; sourceTree = "<group>"; };
+		AE0692E8262E0EC7003058DB /* sushi.1.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.1.out; sourceTree = "<group>"; };
+		AE0692E9262E0EC7003058DB /* sushi.14.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.14.in; sourceTree = "<group>"; };
+		AE0692EA262E0EC8003058DB /* sushi.14.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.14.out; sourceTree = "<group>"; };
+		AE0692EB262E0EC8003058DB /* sushi.3.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.3.in; sourceTree = "<group>"; };
+		AE0692EC262E0EC8003058DB /* sushi.12.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.12.out; sourceTree = "<group>"; };
+		AE0692ED262E0EC8003058DB /* sushi.17.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.17.out; sourceTree = "<group>"; };
+		AE0692EE262E0EC8003058DB /* sushisamp.1.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushisamp.1.out; sourceTree = "<group>"; };
+		AE0692EF262E0EC9003058DB /* sushi.16.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.16.out; sourceTree = "<group>"; };
+		AE0692F0262E0EC9003058DB /* sushi.16.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.16.in; sourceTree = "<group>"; };
+		AE0692F1262E0EC9003058DB /* sushi.15.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.15.out; sourceTree = "<group>"; };
+		AE0692F2262E0EC9003058DB /* sushi.6.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.6.in; sourceTree = "<group>"; };
+		AE0692F3262E0ECA003058DB /* sushi.18.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.18.out; sourceTree = "<group>"; };
+		AE0692F4262E0ECA003058DB /* sushi.17.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.17.in; sourceTree = "<group>"; };
+		AE0692F5262E0ECA003058DB /* sushi.22.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.22.in; sourceTree = "<group>"; };
+		AE0692F6262E0ECA003058DB /* sushi.24.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.24.out; sourceTree = "<group>"; };
+		AE0692F7262E0ECA003058DB /* sushi.9.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.9.out; sourceTree = "<group>"; };
+		AE0692F8262E0ECA003058DB /* sushisamp.2.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushisamp.2.out; sourceTree = "<group>"; };
+		AE0692F9262E0ECA003058DB /* sushi.4.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.4.in; sourceTree = "<group>"; };
+		AE0692FA262E0ECB003058DB /* sushi.9.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.9.in; sourceTree = "<group>"; };
+		AE0692FB262E0ECB003058DB /* sushi.21.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.21.in; sourceTree = "<group>"; };
+		AE0692FC262E0ECB003058DB /* sushi.25.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.25.in; sourceTree = "<group>"; };
+		AE0692FD262E0ECB003058DB /* sushi.4.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.4.out; sourceTree = "<group>"; };
+		AE0692FE262E0ECB003058DB /* sushisamp.1.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushisamp.1.in; sourceTree = "<group>"; };
+		AE0692FF262E0ECC003058DB /* sushi.21.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.21.out; sourceTree = "<group>"; };
+		AE069300262E0ECC003058DB /* sushi.15.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.15.in; sourceTree = "<group>"; };
+		AE069301262E0ECC003058DB /* sushi.8.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.8.out; sourceTree = "<group>"; };
+		AE069302262E0ECC003058DB /* sushi.24.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.24.in; sourceTree = "<group>"; };
+		AE069303262E0ECC003058DB /* sushi.18.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.18.in; sourceTree = "<group>"; };
+		AE069304262E0ECC003058DB /* sushi.7.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.7.in; sourceTree = "<group>"; };
+		AE069305262E0ECD003058DB /* sushi.13.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.13.in; sourceTree = "<group>"; };
+		AE069306262E0ECD003058DB /* sushi.23.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.23.out; sourceTree = "<group>"; };
+		AE069307262E0ECD003058DB /* sushi.6.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.6.out; sourceTree = "<group>"; };
+		AE069308262E0ECD003058DB /* sushi.13.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.13.out; sourceTree = "<group>"; };
+		AE069309262E0ECE003058DB /* sushi.23.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.23.in; sourceTree = "<group>"; };
+		AE06930A262E0ECE003058DB /* sushi.2.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.2.in; sourceTree = "<group>"; };
+		AE06930B262E0ECE003058DB /* sushi.19.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.19.in; sourceTree = "<group>"; };
+		AE06930C262E0ECE003058DB /* sushi.10.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.10.in; sourceTree = "<group>"; };
+		AE06930D262E0ECE003058DB /* sushi.2.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.2.out; sourceTree = "<group>"; };
+		AE06930E262E0ECE003058DB /* sushi.25.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.25.out; sourceTree = "<group>"; };
+		AE06930F262E0ECE003058DB /* sushisamp.2.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushisamp.2.in; sourceTree = "<group>"; };
+		AE069310262E0ECE003058DB /* sushi.8.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.8.in; sourceTree = "<group>"; };
+		AE069311262E0ECF003058DB /* sushi.1.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.1.in; sourceTree = "<group>"; };
+		AE069312262E0ECF003058DB /* sushi.12.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.12.in; sourceTree = "<group>"; };
+		AE069313262E0ECF003058DB /* sushi.5.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.5.in; sourceTree = "<group>"; };
+		AE069314262E0ECF003058DB /* sushi.3.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.3.out; sourceTree = "<group>"; };
+		AE069315262E0ECF003058DB /* sushi.11.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.11.out; sourceTree = "<group>"; };
+		AE069316262E0ED0003058DB /* sushi.11.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.11.in; sourceTree = "<group>"; };
+		AE069317262E0ED0003058DB /* sushi.5.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = sushi.5.out; sourceTree = "<group>"; };
+		AE06931D262E1022003058DB /* IndexPriorityQueue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IndexPriorityQueue.swift; sourceTree = "<group>"; };
+		AE069328262E445A003058DB /* makeOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = makeOne.swift; sourceTree = "<group>"; };
+		AE06932B262E448F003058DB /* MCF.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MCF.swift; sourceTree = "<group>"; };
+		AE06932E262E4C98003058DB /* TwoByTiles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoByTiles.swift; sourceTree = "<group>"; };
+		AE069331262E4CF3003058DB /* oneTwoThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = oneTwoThree.swift; sourceTree = "<group>"; };
+		AE069334262E4D17003058DB /* prettyNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = prettyNumber.swift; sourceTree = "<group>"; };
+		AE069337262E4D3D003058DB /* nonDecreasingOrderDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nonDecreasingOrderDigits.swift; sourceTree = "<group>"; };
+		AE706EA3262F9EDE00D053D8 /* LongestIncreasingSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestIncreasingSubsequence.swift; sourceTree = "<group>"; };
+		AE706EA6262FA21700D053D8 /* SumOfSquareNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfSquareNum.swift; sourceTree = "<group>"; };
+		AE706EA9262FA2AA00D053D8 /* SumOfSquareNum2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfSquareNum2.swift; sourceTree = "<group>"; };
+		AE706EAC262FA2C100D053D8 /* Pokemon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pokemon.swift; sourceTree = "<group>"; };
+		AE706EAF262FA2E500D053D8 /* maxSubArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = maxSubArray.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +218,277 @@
 		AE069265262E0839003058DB /* AlgorithmAndDataStructure */ = {
 			isa = PBXGroup;
 			children = (
+				AE0692AC262E0B09003058DB /* Utils */,
+				AE0692B1262E0B4F003058DB /* Recursion */,
+				AE0692BC262E0B82003058DB /* SearchingSorting */,
+				AE0692C2262E0CCE003058DB /* BagStackQueue */,
+				AE0692CA262E0D2F003058DB /* Trees */,
+				AE0692CE262E0D91003058DB /* Graphs */,
+				AE06931C262E1007003058DB /* PriorityQueueUnionFind */,
+				AE069320262E104A003058DB /* GreedyAlgorithm */,
+				AE069324262E10A8003058DB /* ShortestPaths */,
+				AE0692A8262E0A08003058DB /* DynamicProgramming */,
+				AE069293262E09B2003058DB /* TimeMachine.swift */,
 				AE069266262E0839003058DB /* main.swift */,
 			);
 			path = AlgorithmAndDataStructure;
+			sourceTree = "<group>";
+		};
+		AE0692A8262E0A08003058DB /* DynamicProgramming */ = {
+			isa = PBXGroup;
+			children = (
+				AE0692A9262E0A1D003058DB /* ClimbStairs.swift */,
+				AE069328262E445A003058DB /* makeOne.swift */,
+				AE06932E262E4C98003058DB /* TwoByTiles.swift */,
+				AE069331262E4CF3003058DB /* oneTwoThree.swift */,
+				AE069334262E4D17003058DB /* prettyNumber.swift */,
+				AE069337262E4D3D003058DB /* nonDecreasingOrderDigits.swift */,
+				AE706EA3262F9EDE00D053D8 /* LongestIncreasingSubsequence.swift */,
+				AE706EA6262FA21700D053D8 /* SumOfSquareNum.swift */,
+				AE706EA9262FA2AA00D053D8 /* SumOfSquareNum2.swift */,
+				AE706EAC262FA2C100D053D8 /* Pokemon.swift */,
+				AE706EAF262FA2E500D053D8 /* maxSubArray.swift */,
+			);
+			path = DynamicProgramming;
+			sourceTree = "<group>";
+		};
+		AE0692AC262E0B09003058DB /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				AE0692AD262E0B13003058DB /* String+DPStringTool.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		AE0692B1262E0B4F003058DB /* Recursion */ = {
+			isa = PBXGroup;
+			children = (
+				AE0692B5262E0B61003058DB /* Recursion.swift */,
+				AE0692B2262E0B61003058DB /* ExhaustiveSearch.swift */,
+				AE0692B4262E0B61003058DB /* Backtracking.swift */,
+				AE0692B3262E0B61003058DB /* provinces.txt */,
+				AE0692B6262E0B61003058DB /* Recursion_assignment1_evaluate.swift */,
+			);
+			path = Recursion;
+			sourceTree = "<group>";
+		};
+		AE0692BC262E0B82003058DB /* SearchingSorting */ = {
+			isa = PBXGroup;
+			children = (
+				AE0692BD262E0B92003058DB /* Searching.swift */,
+				AE0692BE262E0B92003058DB /* Sorting.swift */,
+			);
+			path = SearchingSorting;
+			sourceTree = "<group>";
+		};
+		AE0692C2262E0CCE003058DB /* BagStackQueue */ = {
+			isa = PBXGroup;
+			children = (
+				AE0692C3262E0CF6003058DB /* Bag.swift */,
+				AE0692C4262E0CF6003058DB /* Queue.swift */,
+				AE0692C5262E0CF6003058DB /* Stack.swift */,
+			);
+			path = BagStackQueue;
+			sourceTree = "<group>";
+		};
+		AE0692CA262E0D2F003058DB /* Trees */ = {
+			isa = PBXGroup;
+			children = (
+				AE0692CB262E0D52003058DB /* TreeTraversal.swift */,
+				AE069290262E09B2003058DB /* TreeAssignment.swift */,
+				AE069285262E09A4003058DB /* LCA(linear).swift */,
+			);
+			path = Trees;
+			sourceTree = "<group>";
+		};
+		AE0692CE262E0D91003058DB /* Graphs */ = {
+			isa = PBXGroup;
+			children = (
+				AE0692CF262E0DC2003058DB /* Basics */,
+				AE069318262E0EFC003058DB /* FloodFill */,
+				AE06931A262E0F88003058DB /* DAGTopologicalSort */,
+			);
+			path = Graphs;
+			sourceTree = "<group>";
+		};
+		AE0692CF262E0DC2003058DB /* Basics */ = {
+			isa = PBXGroup;
+			children = (
+				AE0692D0262E0DD8003058DB /* AdjacencyList.swift */,
+				AE0692D2262E0DD8003058DB /* AdjacencyMatrix.swift */,
+				AE0692D1262E0DD8003058DB /* BFS.swift */,
+				AE0692D3262E0DD8003058DB /* bipartite.swift */,
+				AE0692D4262E0DD8003058DB /* ConnectedComponents.swift */,
+				AE0692D5262E0DD8003058DB /* DFS.swift */,
+				AE0692DE262E0E1C003058DB /* Assignment */,
+				AE0692DF262E0E6B003058DB /* AssignmentII */,
+			);
+			path = Basics;
+			sourceTree = "<group>";
+		};
+		AE0692DE262E0E1C003058DB /* Assignment */ = {
+			isa = PBXGroup;
+			children = (
+				AE06927A262E099B003058DB /* CyclicPermutation.swift */,
+				AE06928F262E09B2003058DB /* RepeatingSequence.swift */,
+			);
+			path = Assignment;
+			sourceTree = "<group>";
+		};
+		AE0692DF262E0E6B003058DB /* AssignmentII */ = {
+			isa = PBXGroup;
+			children = (
+				AE0692E1262E0EA4003058DB /* testCases */,
+				AE069294262E09B3003058DB /* sample_submission.swift */,
+				AE06928E262E09B2003058DB /* sushi.swift */,
+				AE069298262E09B3003058DB /* SushiIterative.swift */,
+			);
+			path = AssignmentII;
+			sourceTree = "<group>";
+		};
+		AE0692E1262E0EA4003058DB /* testCases */ = {
+			isa = PBXGroup;
+			children = (
+				AE069311262E0ECF003058DB /* sushi.1.in */,
+				AE0692E8262E0EC7003058DB /* sushi.1.out */,
+				AE06930A262E0ECE003058DB /* sushi.2.in */,
+				AE06930D262E0ECE003058DB /* sushi.2.out */,
+				AE0692EB262E0EC8003058DB /* sushi.3.in */,
+				AE069314262E0ECF003058DB /* sushi.3.out */,
+				AE0692F9262E0ECA003058DB /* sushi.4.in */,
+				AE0692FD262E0ECB003058DB /* sushi.4.out */,
+				AE069313262E0ECF003058DB /* sushi.5.in */,
+				AE069317262E0ED0003058DB /* sushi.5.out */,
+				AE0692F2262E0EC9003058DB /* sushi.6.in */,
+				AE069307262E0ECD003058DB /* sushi.6.out */,
+				AE069304262E0ECC003058DB /* sushi.7.in */,
+				AE0692E2262E0EC7003058DB /* sushi.7.out */,
+				AE069310262E0ECE003058DB /* sushi.8.in */,
+				AE069301262E0ECC003058DB /* sushi.8.out */,
+				AE0692FA262E0ECB003058DB /* sushi.9.in */,
+				AE0692F7262E0ECA003058DB /* sushi.9.out */,
+				AE06930C262E0ECE003058DB /* sushi.10.in */,
+				AE0692E7262E0EC7003058DB /* sushi.10.out */,
+				AE069316262E0ED0003058DB /* sushi.11.in */,
+				AE069315262E0ECF003058DB /* sushi.11.out */,
+				AE069312262E0ECF003058DB /* sushi.12.in */,
+				AE0692EC262E0EC8003058DB /* sushi.12.out */,
+				AE069305262E0ECD003058DB /* sushi.13.in */,
+				AE069308262E0ECD003058DB /* sushi.13.out */,
+				AE0692E9262E0EC7003058DB /* sushi.14.in */,
+				AE0692EA262E0EC8003058DB /* sushi.14.out */,
+				AE069300262E0ECC003058DB /* sushi.15.in */,
+				AE0692F1262E0EC9003058DB /* sushi.15.out */,
+				AE0692F0262E0EC9003058DB /* sushi.16.in */,
+				AE0692EF262E0EC9003058DB /* sushi.16.out */,
+				AE0692F4262E0ECA003058DB /* sushi.17.in */,
+				AE0692ED262E0EC8003058DB /* sushi.17.out */,
+				AE069303262E0ECC003058DB /* sushi.18.in */,
+				AE0692F3262E0ECA003058DB /* sushi.18.out */,
+				AE06930B262E0ECE003058DB /* sushi.19.in */,
+				AE0692E3262E0EC7003058DB /* sushi.19.out */,
+				AE0692E4262E0EC7003058DB /* sushi.20.in */,
+				AE0692E6262E0EC7003058DB /* sushi.20.out */,
+				AE0692FB262E0ECB003058DB /* sushi.21.in */,
+				AE0692FF262E0ECC003058DB /* sushi.21.out */,
+				AE0692F5262E0ECA003058DB /* sushi.22.in */,
+				AE0692E5262E0EC7003058DB /* sushi.22.out */,
+				AE069309262E0ECE003058DB /* sushi.23.in */,
+				AE069306262E0ECD003058DB /* sushi.23.out */,
+				AE069302262E0ECC003058DB /* sushi.24.in */,
+				AE0692F6262E0ECA003058DB /* sushi.24.out */,
+				AE0692FC262E0ECB003058DB /* sushi.25.in */,
+				AE06930E262E0ECE003058DB /* sushi.25.out */,
+				AE0692FE262E0ECB003058DB /* sushisamp.1.in */,
+				AE0692EE262E0EC8003058DB /* sushisamp.1.out */,
+				AE06930F262E0ECE003058DB /* sushisamp.2.in */,
+				AE0692F8262E0ECA003058DB /* sushisamp.2.out */,
+			);
+			path = testCases;
+			sourceTree = "<group>";
+		};
+		AE069318262E0EFC003058DB /* FloodFill */ = {
+			isa = PBXGroup;
+			children = (
+				AE069296262E09B3003058DB /* Town.swift */,
+				AE069319262E0F77003058DB /* Assignment */,
+			);
+			path = FloodFill;
+			sourceTree = "<group>";
+		};
+		AE069319262E0F77003058DB /* Assignment */ = {
+			isa = PBXGroup;
+			children = (
+				AE069292262E09B2003058DB /* TomatoFarm.swift */,
+				AE069271262E0962003058DB /* Bridges.swift */,
+			);
+			path = Assignment;
+			sourceTree = "<group>";
+		};
+		AE06931A262E0F88003058DB /* DAGTopologicalSort */ = {
+			isa = PBXGroup;
+			children = (
+				AE069297262E09B3003058DB /* TopologicalSort.swift */,
+				AE06931B262E0FC7003058DB /* AssignmentLeetCode */,
+			);
+			path = DAGTopologicalSort;
+			sourceTree = "<group>";
+		};
+		AE06931B262E0FC7003058DB /* AssignmentLeetCode */ = {
+			isa = PBXGroup;
+			children = (
+				AE069274262E0990003058DB /* CourseSchedule.swift */,
+				AE069275262E0991003058DB /* CourseSchedule2.swift */,
+			);
+			path = AssignmentLeetCode;
+			sourceTree = "<group>";
+		};
+		AE06931C262E1007003058DB /* PriorityQueueUnionFind */ = {
+			isa = PBXGroup;
+			children = (
+				AE06931D262E1022003058DB /* IndexPriorityQueue.swift */,
+				AE069291262E09B2003058DB /* UF.swift */,
+			);
+			path = PriorityQueueUnionFind;
+			sourceTree = "<group>";
+		};
+		AE069320262E104A003058DB /* GreedyAlgorithm */ = {
+			isa = PBXGroup;
+			children = (
+				AE069323262E107C003058DB /* MinimumSpanningTree */,
+				AE069325262E114D003058DB /* AssignmentLeetCode */,
+			);
+			path = GreedyAlgorithm;
+			sourceTree = "<group>";
+		};
+		AE069323262E107C003058DB /* MinimumSpanningTree */ = {
+			isa = PBXGroup;
+			children = (
+				AE069286262E09A4003058DB /* MSTImplementation.swift */,
+				AE06932B262E448F003058DB /* MCF.swift */,
+			);
+			path = MinimumSpanningTree;
+			sourceTree = "<group>";
+		};
+		AE069324262E10A8003058DB /* ShortestPaths */ = {
+			isa = PBXGroup;
+			children = (
+				AE06927D262E099B003058DB /* DijkstraArray.swift */,
+				AE06927B262E099B003058DB /* DijkstraPQ.swift */,
+				AE06926E262E095A003058DB /* BellmanFord.swift */,
+			);
+			path = ShortestPaths;
+			sourceTree = "<group>";
+		};
+		AE069325262E114D003058DB /* AssignmentLeetCode */ = {
+			isa = PBXGroup;
+			children = (
+				AE06928C262E09B2003058DB /* TwoCityScheduling.swift */,
+				AE06928B262E09B1003058DB /* TaskScheduler.swift */,
+				AE06927C262E099B003058DB /* GasStation.swift */,
+				AE069284262E09A4003058DB /* PartitionLabels.swift */,
+			);
+			path = AssignmentLeetCode;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -119,7 +548,60 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AE706EA7262FA21700D053D8 /* SumOfSquareNum.swift in Sources */,
+				AE069335262E4D17003058DB /* prettyNumber.swift in Sources */,
+				AE0692A6262E09B4003058DB /* SushiIterative.swift in Sources */,
+				AE06929F262E09B4003058DB /* UF.swift in Sources */,
+				AE06931E262E1022003058DB /* IndexPriorityQueue.swift in Sources */,
+				AE069288262E09A4003058DB /* LCA(linear).swift in Sources */,
+				AE0692B7262E0B61003058DB /* ExhaustiveSearch.swift in Sources */,
+				AE0692C0262E0B92003058DB /* Sorting.swift in Sources */,
+				AE0692B9262E0B61003058DB /* Recursion.swift in Sources */,
+				AE06929E262E09B4003058DB /* TreeAssignment.swift in Sources */,
+				AE0692AE262E0B13003058DB /* String+DPStringTool.swift in Sources */,
+				AE069280262E099B003058DB /* DijkstraPQ.swift in Sources */,
+				AE06932F262E4C98003058DB /* TwoByTiles.swift in Sources */,
+				AE0692AA262E0A1D003058DB /* ClimbStairs.swift in Sources */,
+				AE0692CC262E0D52003058DB /* TreeTraversal.swift in Sources */,
+				AE069299262E09B4003058DB /* TaskScheduler.swift in Sources */,
+				AE069332262E4CF3003058DB /* oneTwoThree.swift in Sources */,
+				AE06926F262E095A003058DB /* BellmanFord.swift in Sources */,
+				AE0692D9262E0DD8003058DB /* bipartite.swift in Sources */,
+				AE0692D7262E0DD8003058DB /* BFS.swift in Sources */,
+				AE06927F262E099B003058DB /* CyclicPermutation.swift in Sources */,
+				AE0692A0262E09B4003058DB /* TomatoFarm.swift in Sources */,
+				AE069282262E099B003058DB /* DijkstraArray.swift in Sources */,
+				AE069287262E09A4003058DB /* PartitionLabels.swift in Sources */,
+				AE06929C262E09B4003058DB /* sushi.swift in Sources */,
+				AE0692BF262E0B92003058DB /* Searching.swift in Sources */,
+				AE069276262E0991003058DB /* CourseSchedule.swift in Sources */,
+				AE0692C7262E0CF6003058DB /* Queue.swift in Sources */,
+				AE069329262E445A003058DB /* makeOne.swift in Sources */,
+				AE069277262E0991003058DB /* CourseSchedule2.swift in Sources */,
+				AE06932C262E448F003058DB /* MCF.swift in Sources */,
+				AE0692D8262E0DD8003058DB /* AdjacencyMatrix.swift in Sources */,
 				AE069267262E0839003058DB /* main.swift in Sources */,
+				AE0692B8262E0B61003058DB /* Backtracking.swift in Sources */,
+				AE706EA4262F9EDE00D053D8 /* LongestIncreasingSubsequence.swift in Sources */,
+				AE0692DA262E0DD8003058DB /* ConnectedComponents.swift in Sources */,
+				AE069281262E099B003058DB /* GasStation.swift in Sources */,
+				AE069338262E4D3D003058DB /* nonDecreasingOrderDigits.swift in Sources */,
+				AE0692A5262E09B4003058DB /* TopologicalSort.swift in Sources */,
+				AE0692D6262E0DD8003058DB /* AdjacencyList.swift in Sources */,
+				AE069272262E0962003058DB /* Bridges.swift in Sources */,
+				AE06929D262E09B4003058DB /* RepeatingSequence.swift in Sources */,
+				AE706EAA262FA2AA00D053D8 /* SumOfSquareNum2.swift in Sources */,
+				AE06929A262E09B4003058DB /* TwoCityScheduling.swift in Sources */,
+				AE0692BA262E0B61003058DB /* Recursion_assignment1_evaluate.swift in Sources */,
+				AE069289262E09A4003058DB /* MSTImplementation.swift in Sources */,
+				AE0692A2262E09B4003058DB /* sample_submission.swift in Sources */,
+				AE706EAD262FA2C100D053D8 /* Pokemon.swift in Sources */,
+				AE0692DB262E0DD8003058DB /* DFS.swift in Sources */,
+				AE0692A1262E09B4003058DB /* TimeMachine.swift in Sources */,
+				AE706EB0262FA2E500D053D8 /* maxSubArray.swift in Sources */,
+				AE0692A4262E09B4003058DB /* Town.swift in Sources */,
+				AE0692C6262E0CF6003058DB /* Bag.swift in Sources */,
+				AE0692C8262E0CF6003058DB /* Stack.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
